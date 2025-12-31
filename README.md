@@ -9,7 +9,8 @@ Improving backend concepts like APIs, databases, and application structure
 
 🛠️ Tools & Technologies:
 
-Core Backend
+Core Backend:
+
 Node.js, Express
 MongoDB, MySQL, PostgreSQL
 
