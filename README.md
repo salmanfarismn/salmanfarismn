@@ -1,16 +1,31 @@
-## Hi there 👋
+I’m an MCA student aspiring to become a Software Engineer, with a strong interest in backend development.
+I enjoy building reliable systems, writing clean code, and understanding how things work under the hood.
 
-<!--
-**salmanfarismn/salmanfarismn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚧 What I’m currently working on
+Building personal projects
+Revising and strengthening my MERN stack
+Improving backend concepts like APIs, databases, and application structure
 
-Here are some ideas to get you started:
+🛠️ Tools & Technologies
+Core Backend
+Node.js, Express
+MongoDB, MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend
+React, Redux
+HTML, CSS, Sass, Tailwind, Bootstrap
+Programming Languages
+JavaScript
+Java
+C
+
+Tools & Workflow
+Git, GitHub
+Postman
+Jest
+Chart.js
+AWS
+
+📫 How to reach me
+LinkedIn
+Email
