@@ -34,6 +34,5 @@ Chart.js
 AWS
 
 📫 How to reach me:
-
-LinkedIn
-Email
+LinkedIn: https://www.linkedin.com/in/salman-faris-m-n/
+Email: salmanfarismn03@gmail.com
